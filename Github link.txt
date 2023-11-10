@@ -1,1 +1,1 @@
-https://github.com/blender-renaissance/Info-Graphs-for-Blender
+https://github.com/blender-renaissance/Node-Titles-for-blender
